@@ -6,7 +6,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/beihukasi/PUA.git
+git clone https://github.com/yourname/PUA.git
 cd PUA
 
 # 2. 运行安装脚本
