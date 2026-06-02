@@ -204,6 +204,49 @@ git push origin main
 
 ---
 
+## 小白名词解释
+
+### 什么是 PR？
+
+PR 就是 Pull Request，中文叫合并请求。
+
+你可以理解为："我写了一个新案例文件，请审核一下，没问题的话合并到主仓库吧。"
+
+**你做第 1~5 步。维护者 (beihukasi) 做第 6~7 步：**
+1. Fork
+2. Clone
+3. 写案例
+4. Push
+5. 发起 PR ---> (维护者收到通知)
+6. 维护者审核 ---> 点 Merge 合并
+7. 你的案例出现在主仓库 cases/ 文件夹下！
+
+### 什么是 Issue？
+
+Issue = GitHub 上的留言板。不需要 git，打开网页就能发。
+
+**什么时候开 Issue？**
+- 有问题想问
+- 有建议想说
+- 发现了 bug
+
+**怎么开？**
+1. 打开 https://github.com/beihukasi/PUA
+2. 点顶部 **Issues** 标签
+3. 点绿色 **New Issue** 按钮
+4. 写标题+内容，点 Submit
+
+### 维护者怎么看到 PR？
+
+打开 https://github.com/beihukasi/PUA，点顶部的 **Pull requests** 标签，所有别人提交的 PR 都在那里。
+右上角铃铛图标会有红点提醒。
+
+### 一图看懂整个流程
+
+
+
+---
+
 ## 需要帮助？
 
 - GitHub 上开 **Issue** 提问
